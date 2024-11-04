@@ -15,7 +15,7 @@ python conv.py <song.ustx>
 ## Limitations
 Dectalk only supports one singer at a time, so please match that in OpenUtau. Also I haven't tried what would happen if I had multiple singers, so there's that.  
 ### Note
-If your song is over 120 bpm timings won't work right. To fix this you can go to `Project => Adjust Tempo (Preserve Timings)`
+If your song is over 120 bpm it won't work right, notes will be held down for to long. To fix this you can go to `Project => Adjust Tempo (Preserve Timings)`
 
 ## Links
 [OpenUtau](https://www.openutau.com/)  
